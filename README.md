@@ -8,43 +8,44 @@ Parte Pública:
 
 Parte Privada:
 
-  1- Cliente:
+  - Cliente:
     - Compras
     - Pedidos
     - Citas
  
-  2- Peluquero:
+  - Peluquero:
     - Citas
     - Ficha Cliente
     - Pedidos
 
 Entidades:
 
-  1- Citas
+  - Citas
     - Registrar y cancelar de citas para una sesion de peluqueria
     - Añadir tipo de tratamiento de la solicitud a la ficha del cliente
   
-  2- Usuario
+  - Usuario
     - Añadir, consultar y cancelar citas (Cliente y Peluquero)
     - Hacer pedido (Cliente)
     - Confirmar pedido (Peluquero)
     - Consultar y modificar Ficha Cliente (Peluquero)
   
-  3- Productos
+  - Productos
     - Añadir y Eliminar productos
     - Incluir a pedido
     - Ofertar producto
   
-  4- Tratamientos
+  - Tratamientos
     - Añadir y Elimnar Tratamientos
     - Ofertar tratamiento
   
-  5- Ofertas
+  - Ofertas
     - Listar ofertas
     - Mostrar ofertas
     - Añadir ofertas
 
-Integrantes
+Integrantes:
+
   Guillermo Hernández Lorca
   g.hernandezl@alumnos.urjc.es
   github.com/kazeryu
