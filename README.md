@@ -13,7 +13,7 @@ Parte Privada:
     - Pedidos
     - Citas
  
-  2- Peluquero
+  2- Peluquero:
     - Citas
     - Ficha Cliente
     - Pedidos
