@@ -46,6 +46,7 @@ Entidades:
 
 Integrantes:
 
-  Guillermo Hernández Lorca
-  g.hernandezl@alumnos.urjc.es
-  github.com/kazeryu
+  Nombre: Guillermo 
+  Apellidos: Hernández Lorca
+  Correo: g.hernandezl@alumnos.urjc.es
+  Git: github.com/kazeryu
